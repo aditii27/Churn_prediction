@@ -18,7 +18,7 @@ model = joblib.load("Models/best_model.pkl")
 scaler = joblib.load("Models/scaler.pkl")
 
 # Load training columns
-train_columns = pd.read_csv("Data/processed_data.csv").drop("Churn", axis=1).columns
+train_columns = model.get_booster().feature_names
 
 # -----------------------------
 # HEADER
