@@ -144,8 +144,8 @@ These features align well with real-world drivers of customer churn in subscript
 
 Add your dashboard screenshots under an `images/` folder and reference them here, for example:
 
-- Input panel screenshot (customer details and feature inputs).  
-- Risk output screenshot (predicted probability and risk band).
+-  (images/ouput1.jpg) 
+-  (images/output2.png)
 
 ***
 
