@@ -144,8 +144,8 @@ These features align well with real-world drivers of customer churn in subscript
 
 Add your dashboard screenshots under an `images/` folder and reference them here, for example:
 
-![Hish Risk Output](images/output1.jpg)
-![Low Risk Output](images/output2.png)
+![Hish Risk Output](Images/output1.png)
+![Low Risk Output](Images/output2.png)
 
 ***
 
